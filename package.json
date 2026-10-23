@@ -1,0 +1,26 @@
+{
+  "name": "vitamin6repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyetsehao/vitamin6Repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lyetsehao/vitamin6Repo/issues"
+  },
+  "homepage": "https://github.com/lyetsehao/vitamin6Repo#readme",
+  "dependencies": {
+    "dotenv": "^18.0.8",
+    "ejs": "^7.0.2",
+    "express": "^5.3.0"
+  }
+}
